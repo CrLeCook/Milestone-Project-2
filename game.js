@@ -3,7 +3,7 @@ let playerScore  = 0;
 let computerScore = 0;
 isGameOver = false;
 
-// Grabbing references for pre-existing elements to acces
+// Grabbing references for pre-existing elements to access
 
 // Scores
 const playerScoreText = document.querySelector("#player-score");
