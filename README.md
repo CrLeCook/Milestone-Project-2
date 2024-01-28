@@ -54,12 +54,9 @@ The website has been tested on:
 
 ![image](/documentation/Screenshot_Android.jpg)
 
-### PageSpeed Insights
+### PageSpeed Insights Results
 
-![image](/documentation/Screenshot_Android.jpg)
-
-## Disclaimer
-This web application has been developed for educational purposes, no commercial or any monetary use is possible or allowed. I do not own the assets used in the site and all rights to them are reserved to the Pokemon Company and Nintendo.
+![image](/documentation/lightspeed.jpg)
 
 ## References
 
@@ -69,3 +66,6 @@ This web application has been developed for educational purposes, no commercial 
 ### Guides that helped
 - [Learn JavaScript - Full Course for Beginners - freeCodeCamp.org](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 - [Web Development Tutorial - JavaScript, HTML, CSS - Rock Paper Scissors Game - freeCodeCamp.org](https://www.youtube.com/watch?v=jaVNP3nIAv0)
+
+## Disclaimer
+This web application has been developed for educational purposes, no commercial or any monetary use is possible or allowed. I do not own the assets used in this site and all rights to them are reserved to the Pokemon Company and Nintendo
