@@ -3,7 +3,7 @@
 [View the live project here](https://crlecook.github.io/Milestone-Project-2/)
 
 # MP2 Background
-"I Choose You!" wasn't the first project I had. Originally, I had an idea for a ecommerce lamp website. It had a light switch <button>, that when pressed turned a lamp on. I thought it looked really cool. However, I found myself not very interested in the subject matter and decided to change my idea to something I'd find more engaging.
+"I Choose You!" wasn't the first project I had. Originally, I had an idea for a ecommerce lamp website. It had a light switch button that when pressed turned a lamp on. I thought it looked really cool. However, I found myself not very interested in the subject matter and decided to change my idea to something I'd find more engaging.
 
 ## Purpose & Value
 The purpose of the website provides the user with a simple twist on the classic game of Rock, Paper, Scissors. In my version, the user selects a Pokemon that represents a 'type'. People who have played or seen Pokemon before will understand this, but those that haven't - it's simple enough:
