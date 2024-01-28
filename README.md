@@ -41,7 +41,7 @@ The website was coded in Visual Studio Code and is deployed to Github Pages.
 I've found learning JavaScript very fun. It felt more like 'coding' then when I was learning HTML and CSS. I encountered a number of issues. Mainly typos in my code which then broke something else and took an age to realise why my code wasn't working as intended.
 
 ## What I'd do differently
-I'd have more of a plan. I made this project after being dissatisfied with my original idea and worked through most of the night on it. (coming off night-shifts helped!)
+I'd have more of a plan. I'd have subject matter I find engaging from the onset. I made this project after being dissatisfied with my original idea and worked through most of the night on it. (coming off night-shifts helped!)
 
 Given more time I would make the health bars 'lose points' after each round, thinking in terms of game-logic this could be hard to implement but it definitely can be done. I would have also added more types, such as Rock, Electric, etc and expand the game past 3 options.
 
