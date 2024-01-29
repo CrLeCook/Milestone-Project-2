@@ -43,7 +43,7 @@ I've found learning JavaScript very fun. It felt more like 'coding' then when I 
 ## What I'd do differently
 I'd have more of a plan. I'd have subject matter I find engaging from the onset. I made this project after being dissatisfied with my original idea and worked through most of the night on it. (coming off night-shifts helped!)
 
-Given more time I would make the health bars 'lose points' after each round, thinking in terms of game-logic this could be hard to implement but it definitely can be done. I would have also added more types, such as Rock, Electric, etc and expand the game past 3 options.
+Given more time I would make the health bars 'lose points' after each round, thinking in terms of game-logic this could be hard to implement but it definitely can be done. I would have also added more types, such as Rock, Electric, etc to expand the game past 3 options - this would also reduce the amount of ties in the game.
 
 ## Testing
 The website has been tested on:
